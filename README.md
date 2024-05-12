@@ -40,6 +40,6 @@ Contribution
 Contributions to this project are welcome! Feel free to submit pull requests, open issues, or provide suggestions on how to improve it.
 
 Contact
-If you have any questions or suggestions, don't hesitate to reach out through the contact form on the website or via [email@example.com].
+If you have any questions or suggestions, don't hesitate to reach out through the contact form on the website or via Gafoormohammed18@gmail.com
 
 Thank you for visiting my portfolio!
